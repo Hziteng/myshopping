@@ -1,6 +1,6 @@
 Fruit & vegetables
 ------------------
 
-bananas
-lotus root
-apple
+chips
+peanuts
+chewing gum
