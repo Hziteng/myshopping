@@ -1,6 +1,6 @@
 Fruit & vegetables
 ------------------
 
-chips
-peanuts
-chewing gum
+bananas
+apple
+snow peas
